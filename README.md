@@ -1,7 +1,4 @@
-Dept. of AI&ML, BIT 2023-2024 19
-Chapter 6
-CONCULSION
-The following conclusions can be deduced from the development of the project
+
 • Automation of the entire system improves the efficiency
 • It gives appropriate access to the authorized users depending on their permissions.
 • It effectively overcomes the delay in communications.
